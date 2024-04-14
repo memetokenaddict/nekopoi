@@ -16,12 +16,6 @@
         "type": "image/png"
       }
     ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "8Ecbt9ab99hi2BSuaCUGxhRvRjQzMUwXBmgGvY2Pdh9Z",
-        "share": 100
-      }
-    ]
+    "category": "image"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Nekopoi",
+  "symbol": "NPOI",
+  "description": "another 1000x meme token lol",
+  "image": "https://raw.githubusercontent.com/memetokenaddict/nekopoi/main/nekopoi.png",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/memetokenaddict/nekopoi/main/nekopoi.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8Ecbt9ab99hi2BSuaCUGxhRvRjQzMUwXBmgGvY2Pdh9Z",
+        "share": 100
+      }
+    ]
+  }
+}
